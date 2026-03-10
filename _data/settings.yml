@@ -4,7 +4,7 @@ title: Wayne
 description: I am a dedicated computer science student passionate about machine learning
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -40,7 +40,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: "Daryl Mercer"
+  author_name: "Wayne Simmons"
   author_avatar: "/images/01-1.jpg"
 
 
@@ -49,11 +49,11 @@ author:
 hero:
   enable: true
   hero_title: I am a dedicated computer science student passionate about machine learning.
-  hero_description: Leveraging my expertise, I'm here to collaborate with you on crafting design solutions that transcend expectations. Let's embark on a journey of innovation together!
+  hero_description: Leveraging my experience in machine learning and software development, I work on building practical solutions that turn complex data into meaningful results. I'm always excited to collaborate on projects that push ideas beyond theory and into real-world impact.
 
 # Hero Logos
 hero_logos:
-  enable: true
+  enable: false
 
 hero_logo_image:
   - alt: "Apple Logo"
